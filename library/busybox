@@ -1,0 +1,3 @@
+# maintainer: Sergey Shkolin <sergey.shkolin@me.com> (@sergey-shkolin)
+
+latest: git://github.com/otechlabs/docker-busybox@037c9533761211593139e77bf15eb5ac072cd913
