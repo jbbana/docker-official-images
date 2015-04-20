@@ -9,7 +9,7 @@ dir="$(dirname "$(readlink -f "$BASH_SOURCE")")"
 library="$dir/../library"
 src="$dir/src"
 logs="$dir/logs"
-namespaces='docker.otlabs.fr'
+namespaces='otechlabs'
 docker='docker'
 
 library="$(readlink -f "$library")"
