@@ -24,7 +24,7 @@ latest: git://github.com/docker-library/hello-world@b7a78b7ccca62cc478919b101f3a
 -	Add your tag definitions using the appropriate syntax (see above).
 -	Add a line similar to the following to the top of the file:
 
-		`# maintainer: Your Name <your@email.com> (@github.name)`
+`# maintainer: Your Name <your@email.com> (@github.name)`
 
 -	Create a pull request adding the file from your forked repository to this one. Please be sure to add details as to what your repository does.
 
