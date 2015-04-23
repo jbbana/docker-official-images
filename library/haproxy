@@ -1,0 +1,4 @@
+# maintainer: InfoSiftr <github@infosiftr.com> (@infosiftr)
+
+1.5.11: git://github.com/docker-library/haproxy@942dc7ef85fe823b72d5592a745519dac0138039 1.5
+
