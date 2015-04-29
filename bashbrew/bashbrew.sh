@@ -390,12 +390,12 @@ while [ "$#" -gt 0 ]; do
 				fi
 				if [ "$doPush" ]; then
 					echo "Pushing $namespace/$repoTag..."
+					echo "$namespace/$repoTag" >> "$logDir/imagelist.txt"
 					if ! "$docker" push "$namespace/$repoTag" &>> "$thisLog" < /dev/null; then
 						echo >&2 "- $namespace/$repoTag failed to push; see $thisLog"
 					fi
 				else
 					echo "$docker push" "$namespace/$repoTag"
-					echo "$namespace/$repoTag" >> "$logDir/imagelist.txt"
 				fi
 			done
 			;;
