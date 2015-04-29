@@ -395,6 +395,7 @@ while [ "$#" -gt 0 ]; do
 					fi
 				else
 					echo "$docker push" "$namespace/$repoTag"
+					echo "$namespace/$repoTag" >> "$logDir/imagelist.txt"
 				fi
 			done
 			;;
