@@ -1,0 +1,5 @@
+# maintainer: InfoSiftr <github@infosiftr.com> (@infosiftr)
+
+2.1.6-slim: git://github.com/docker-library/ruby@4ccabb5557ce2001aa1ae2a5f719340eb33c0383 2.1/slim
+2.1-slim: git://github.com/docker-library/ruby@4ccabb5557ce2001aa1ae2a5f719340eb33c0383 2.1/slim
+
