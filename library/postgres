@@ -1,0 +1,7 @@
+# maintainer: InfoSiftr <github@infosiftr.com> (@infosiftr)
+
+9.4.1: git://github.com/docker-library/postgres@77438cd8e1c2b780b4f859c5efd904ae3c6c508a 9.4
+9.4: git://github.com/docker-library/postgres@77438cd8e1c2b780b4f859c5efd904ae3c6c508a 9.4
+9: git://github.com/docker-library/postgres@77438cd8e1c2b780b4f859c5efd904ae3c6c508a 9.4
+latest: git://github.com/docker-library/postgres@77438cd8e1c2b780b4f859c5efd904ae3c6c508a 9.4
+
