@@ -1,0 +1,3 @@
+# maintainer: Sergey Shkolin <sergey.shkolin@me.com> (@sergey-shkolin)
+
+latest: git://github.com/sergey-shkolin/docker-ansible@52da9eee43516f2d9309ab57420b1b6c1482dff5
