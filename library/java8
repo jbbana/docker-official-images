@@ -1,3 +1,3 @@
 # maintainer: Sergey Shkolin <sergey.shkolin@me.com> (@sergey-shkolin)
 
-40.26: git://github.com/otechlabs/docker-java8@9ead2d3b857ee6f860c8929cdcd520ae124f7095
+60.27: git://github.com/otechlabs/docker-java8@2b4c96bc781a1d701c363fd48c80bbcfd77b53e3
