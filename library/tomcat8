@@ -1,3 +1,3 @@
 # maintainer: Sergey Shkolin <sergey.shkolin@me.com> (@sergey-shkolin)
 
-0.21: git://github.com/otechlabs/docker-tomcat8@4a86d5967d32d47591922ad1589a476e9131c0b3
+0.21: git://github.com/otechlabs/docker-tomcat8@22bbb33604e7580a4c810b66bddd6a0bb03b1949
